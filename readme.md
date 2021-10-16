@@ -1,2 +1,0 @@
-.env
-mongo-secret.yaml
